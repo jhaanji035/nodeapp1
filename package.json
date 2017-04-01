@@ -4,7 +4,7 @@
   "description": "my first application in node js",
   "main": "app.js",
   "scripts": {
-    "test": "echo exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
