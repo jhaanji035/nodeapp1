@@ -1,0 +1,25 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "my first application in node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhaanji035/nodeapp1.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Pankaj chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhaanji035/nodeapp1/issues"
+  },
+  "homepage": "https://github.com/jhaanji035/nodeapp1#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
